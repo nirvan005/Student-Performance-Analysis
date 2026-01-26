@@ -189,6 +189,10 @@ This project is available for educational purposes.
 
 **Nirvan**
 
----
+📚 Data Source
+Dataset: Student Performance Dataset
+Description: Student Performance Dataset with Detailed and Variety of (33) Features
+Author: Dev Ansodariya
+Platform: Kaggle
 
 _This project demonstrates end-to-end machine learning workflow including EDA, preprocessing, feature engineering, model training, and evaluation._
