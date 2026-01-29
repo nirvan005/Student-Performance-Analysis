@@ -46,12 +46,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn ydata-profiling
 ```
 Linear Regression-Student Performance Analysis/
 │
-├── student_data.csv              # Dataset
-├── performance.ipynb             # Main analysis notebook
-├── useModel.ipynb                # Model usage/testing notebook
-├── output.html                   # EDA profiling report
-├── PerformancePrediction.pkl     # Trained model (generated)
-└── README.md                     # Project documentation
+├── student_data.csv                                      # Dataset
+├── Performance_Prediction_Linear_Regression.ipynb        # Main analysis notebook
+├── useModel.ipynb                                        # Model usage/testing notebook
+├── output.html                                           # EDA profiling report
+├── PerformancePrediction.pkl                             # Trained model (generated)
+└── README.md                                             # Project documentation
 ```
 
 ## 🔍 Analysis Workflow
